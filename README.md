@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stepa10online
-- 👀 I’m interested in programming, photoshoping, pixel drawings.
+- 👀 I’m interested in programming, photoshoping, pixel drawings (kind of old info, but i don't care >:) ).
 - 🌱 I’m currently learning C++, Python.
 
 <!---
